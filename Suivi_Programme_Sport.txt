@@ -157,9 +157,9 @@
         <h2>Progression</h2>
         <p>Suivi de ta progression en % pour voir ton évolution :</p>
         <div class="progress">
-            <div class="progress-bar" style="width: 0%"></div>
+            <div class="progress-bar" style="width: 10%"></div>
         </div>
-        <p>Progrès : 0%</p>
+        <p>Progrès : 10%</p>
     </div>
 </div>
 
